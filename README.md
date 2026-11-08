@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./assets/social-previews/goe-architecture.jpg"
+       width="100%"
+       alt="GOE Architecture Repository">
+</p>
+
 # GOE Architecture
 
 **The GOE™ reference architecture, at the level of principles.**
@@ -122,7 +128,7 @@ The publication communicates the philosophy and vision. The implementation remai
 - [GOE Operating System™: The Eight-Level Engineering Evolution Framework](https://www.yugeniuslab.com/publications/goe-operating-system/) · [Read online](https://www.yugeniuslab.com/publications/goe-operating-system/white-paper/)
 - [GOE Lab™](https://www.yugeniuslab.com/goe-lab/)
 - [Open Knowledge™](https://www.yugeniuslab.com/open-knowledge/)
-- Companion repositories: [goe-operating-system](https://github.com/USERNAME/goe-operating-system) · [open-knowledge](https://github.com/USERNAME/open-knowledge)
+- Companion repositories: [goe-operating-system](https://github.com/ilsooedisonyu/goe-operating-system) · [open-knowledge](https://github.com/ilsooedisonyu/open-knowledge)
 
 ---
 
